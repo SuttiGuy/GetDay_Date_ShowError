@@ -1,0 +1,9 @@
+body{
+    background-image: url("./img/sky.JPG");
+    background-size:100%;
+    color:aliceblue;
+}
+
+.form {
+    color:rgb(17, 0, 255);
+}
